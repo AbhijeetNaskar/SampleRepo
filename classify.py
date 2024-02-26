@@ -1,14 +1,14 @@
 from sklearn import datasets
 from sklearn.neighbors import KNeighborsClassifier
 
-#loading dataset
+# loading dataset
 iris = datasets.load_iris()
 
 # printing description features
-print(iris.DESCR)
+# print(iris.DESCR)
 features = iris.data
 labels = iris.target
-print(features[0], labels[0])
+# print(features[0], labels[0])
 
 # training the classifier
 clf = KNeighborsClassifier()
