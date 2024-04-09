@@ -1,0 +1,35 @@
+Overview of SharePoint 2019 for Business Users
+
+SharePoint 2019 is a powerful collaboration platform developed by Microsoft, designed to facilitate seamless communication, content management, and collaboration within organizations. As a business user, understanding the capabilities and features of SharePoint 2019 is essential for maximizing productivity and efficiency within your team or organization.
+
+Key Features and Benefits:
+
+Document Management: SharePoint 2019 provides robust document management capabilities, allowing users to store, organize, and share documents securely. With features such as versioning, co-authoring, and document workflows, teams can collaborate effectively on documents while ensuring data integrity and compliance.
+
+Team Sites: SharePoint 2019 offers customizable team sites where users can collaborate on projects, share information, and manage tasks. Team sites serve as centralized hubs for team communication and collaboration, enabling users to access documents, calendars, announcements, and other relevant information in one place.
+
+Social Collaboration: SharePoint 2019 includes social collaboration features such as newsfeeds, discussions, and user profiles, fostering a sense of community and engagement within the organization. Users can share updates, ask questions, and interact with colleagues in real-time, promoting knowledge sharing and collaboration.
+
+Search and Discovery: With powerful search capabilities, SharePoint 2019 enables users to quickly find relevant content and information across sites, documents, and people. Advanced search filters and metadata navigation make it easy to locate specific documents or resources, saving time and improving productivity.
+
+Business Intelligence: SharePoint 2019 integrates with Microsoft Power BI, allowing users to create interactive dashboards, reports, and data visualizations directly within SharePoint sites. Business users can gain valuable insights from their data, track key metrics, and make informed decisions to drive business success.
+
+What Site Owners Can Do:
+
+Site Customization: Site owners have the ability to customize SharePoint sites to meet the specific needs of their teams or projects. This includes customizing site navigation, adding web parts, and configuring site permissions to control access to content.
+
+Content Management: Site owners can manage content within their sites, including uploading documents, creating lists, and organizing content in libraries. They can also set document-level permissions and establish content approval workflows to ensure compliance and data security.
+
+User Management: Site owners have administrative control over user access and permissions within their sites. They can add or remove users, assign permission levels, and manage user groups to control who can view, edit, or contribute to site content.
+
+Site Administration: Site owners are responsible for site administration tasks such as site settings configuration, site maintenance, and monitoring site usage and performance. They can also manage site features and activate/deactivate site templates as needed.
+
+What Site Owners Cannot Do:
+
+Global Configuration: Site owners do not have access to global SharePoint settings or configuration options that affect the entire SharePoint environment. These settings are typically managed by SharePoint administrators at the site collection or farm level.
+
+Server Administration: Site owners do not have administrative access to the SharePoint server infrastructure or underlying server settings. Tasks such as server maintenance, backups, and performance tuning are typically handled by SharePoint administrators or IT professionals.
+
+Platform Customization: While site owners can customize individual sites, they do not have the ability to customize the underlying SharePoint platform or modify core functionality. Customizations at the platform level require advanced development skills and may require involvement from SharePoint developers or administrators.
+
+In conclusion, SharePoint 2019 offers a comprehensive set of features and capabilities to empower business users to collaborate effectively, manage content efficiently, and drive productivity within their organizations. With its intuitive interface and powerful collaboration tools, SharePoint 2019 is an invaluable platform for businesses seeking to streamline communication, improve knowledge sharing, and achieve their business goals.
